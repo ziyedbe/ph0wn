@@ -49,7 +49,7 @@ We then went for a quick correction of the numbers manually
 7-86280222218758143060577039723423036819702949921689517334729056400620503262863
 ```
 
-Ok we're cool now, googling [Shamir](https://medium.com/@apogiatzis/shamirs-secret-sharing-a-numeric-example-walkthrough-a59b288c34c4) and trying to understand how to works we came across this [Implementation](https://github.com/blockstack/secret-sharing)
+Ok we're cool now, googling [Shamir](https://medium.com/@apogiatzis/shamirs-secret-sharing-a-numeric-example-walkthrough-a59b288c34c4) and trying to understand how it works we came across this [Implementation](https://github.com/blockstack/secret-sharing).
 So we made a python script using it
 
 ```python
