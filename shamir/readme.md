@@ -9,7 +9,7 @@ The first thing we did was installing and playing the game, we found 7 dragon ba
 <img src="images/1.jpg"/>
 </p>
 
-We made a screenshot of every given numbers then we used this online tool to crop the images: https://www.iloveimg.com/crop-image
+We made a screenshot of every given numbers then we used this [online tool](https://www.iloveimg.com/crop-image) to crop the images.
 
 <p align="center">
 <img src="cropped/2.jpg"/>
@@ -49,7 +49,7 @@ We then went for a quick correction of the numbers manually
 7-86280222218758143060577039723423036819702949921689517334729056400620503262863
 ```
 
-Ok we're cool now, googling [Shamir](https://medium.com/@apogiatzis/shamirs-secret-sharing-a-numeric-example-walkthrough-a59b288c34c4) and trying to understand how to works we come across this [Implementation](https://github.com/blockstack/secret-sharing)
+Ok we're cool now, googling [Shamir](https://medium.com/@apogiatzis/shamirs-secret-sharing-a-numeric-example-walkthrough-a59b288c34c4) and trying to understand how to works we came across this [Implementation](https://github.com/blockstack/secret-sharing)
 So we made a python script using it
 
 ```python
